@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\2nd Term\Computer Graphics\Slides\Opengl-20220527T230327Z-001\Opengl\opengl\opengl\main.cpp(129,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\2nd Term\Computer Graphics\Slides\Opengl-20220527T230327Z-001\Opengl\opengl\opengl\main.cpp(155,48): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\2nd Term\Computer Graphics\Slides\Opengl-20220527T230327Z-001\Opengl\opengl\opengl\main.cpp(155,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\2nd Term\Computer Graphics\Slides\Opengl-20220527T230327Z-001\Opengl\opengl\opengl\main.cpp(178,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\2nd Term\Computer Graphics\Slides\Opengl-20220527T230327Z-001\Opengl\opengl\opengl\main.cpp(178,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\2nd Term\Computer Graphics\Slides\Opengl-20220527T230327Z-001\Opengl\opengl\opengl\main.cpp(178,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  opengl.vcxproj -> D:\2nd Term\Computer Graphics\Slides\Opengl-20220527T230327Z-001\Opengl\opengl\Debug\opengl.exe
+          1 file(s) copied.
