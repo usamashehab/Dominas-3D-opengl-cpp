@@ -2,7 +2,7 @@
 
 This program allows you to draw 3D Dominas using OpenGL with C++. It also enables you to generate new Dominas stones by pressing the 'r' key and rotate them in the x, y, and z axis using the arrow keys.
 
-![3D Dominas](images/dominas.png)
+![3D_Dominas](images/dominas.png)
 
 ## Instructions for Running the Program:
 
