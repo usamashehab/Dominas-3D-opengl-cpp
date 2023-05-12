@@ -25,10 +25,8 @@ bash
 ```
 or Run it using visual studio code
 
-Once the program is running, you can draw Dominas stones in the 3D space by clicking on the left mouse button.
-
-Press the 'r' key to generate a new Dominas stone.
+Once the program is running, you can Press the 'r' key to generate a new Dominas stone.
 
 Use the arrow keys to rotate the Dominas stone in the x, y, and z axis.
 
-Press the 'q' key to exit the program.
+Press the escape key to exit the program.
